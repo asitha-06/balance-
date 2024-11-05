@@ -1,0 +1,48 @@
+.box{
+    background-image: url(https://wallpaperaccess.com/full/1347292.jpg);
+    height: 800px;
+    width:800px;
+    
+}
+h1{
+   height: 50px;
+   width: 650px;
+   font-family:cursive;
+   opacity:50%;
+   font-variant: inherit;
+   color:aliceblue;
+   text-align: center;
+   padding: 2%;
+   background-repeat:no-repeat ;
+background-attachment: fixed;
+background-size: cover;
+position: relative;
+background-position: center;
+overflow: hidden;
+   
+}
+.a{
+    height: 650px;
+   width: 650px;
+   font-family:cursive;
+   background-color: transparent;
+   border: 1px solid;
+   cursor: pointer;
+ font-variant: inherit;
+ color:aliceblue;
+ text-align: center;
+ padding:1%;
+ border-radius: 10%;
+ transition: 1s;
+
+border-radius:  20px 20px 20px; 
+
+
+}
+a:hover{
+    background-color: rgb(230, 11, 215);
+    text-decoration: underline;
+    border-radius: 50%;
+    
+    
+}
